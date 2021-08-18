@@ -1,0 +1,11 @@
+roboto regular 400
+roboto mid 500
+lato reg 400
+lato mid 500
+lato semi bold 600
+lato bold 700
+
+
+color 
+blackish #333333
+ash      #8e8e8e
